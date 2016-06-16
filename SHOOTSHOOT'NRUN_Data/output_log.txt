@@ -1,0 +1,44 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7400M Series (ID=0x6760)
+    Vendor:   ATI
+    VRAM:     1015 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\TheGame2D\SHOOTSHOOT'NRUN_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\TheGame2D\SHOOTSHOOT'NRUN_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\TheGame2D\SHOOTSHOOT'NRUN_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\TheGame2D\SHOOTSHOOT'NRUN_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\TheGame2D\SHOOTSHOOT'NRUN_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\TheGame2D\SHOOTSHOOT'NRUN_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.198 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\TheGame2D\SHOOTSHOOT'NRUN_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\TheGame2D\SHOOTSHOOT'NRUN_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 3.320477 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 1296.
+Total: 0.721715 ms (FindLiveObjects: 0.041052 ms CreateObjectMapping: 0.017960 ms MarkObjects: 0.233851 ms  DeleteObjects: 0.072941 ms)
+
+UnloadTime: 9.006598 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 682 unused Assets to reduce memory usage. Loaded Objects now: 778.
+Total: 5.975320 ms (FindLiveObjects: 0.140384 ms CreateObjectMapping: 0.073674 ms MarkObjects: 0.564470 ms  DeleteObjects: 3.773886 ms)
+
+UnloadTime: 1.323206 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 1300.
+Total: 0.700822 ms (FindLiveObjects: 0.036287 ms CreateObjectMapping: 0.019060 ms MarkObjects: 0.263908 ms  DeleteObjects: 0.056813 ms)
+
+UnloadTime: 4.553881 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 681 unused Assets to reduce memory usage. Loaded Objects now: 778.
+Total: 5.862792 ms (FindLiveObjects: 0.146982 ms CreateObjectMapping: 0.065243 ms MarkObjects: 0.532947 ms  DeleteObjects: 3.759224 ms)
+
